@@ -45,10 +45,10 @@ You can deploy this project using Github Pages
 
 
 
-## 👥 Authors <a name="authors"></a>
+ <a name="authors"></a>
 
 
-- GitHub: [Asad-Zaidi]https://github.com/Ali27Raza/MyPortfolio.git
+- GitHub: [Ali Raza]https://github.com/Ali27Raza/MyPortfolio.git
 
 ## 🤝 Contributing <a name="contributing"></a>
 
