@@ -33,7 +33,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://asad-zaidi.github.io/Portfolio/)
+- [Live Demo Link]https://ali27raza.github.io/MyPortfolio/
 
 
 
@@ -48,9 +48,7 @@ You can deploy this project using Github Pages
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **SYED ASAD JAMIL**
-
-- GitHub: [Asad-Zaidi](https://github.com/Asad-Zaidi)
+- GitHub: [Asad-Zaidi]https://github.com/Ali27Raza/MyPortfolio.git
 
 ## 🤝 Contributing <a name="contributing"></a>
 
